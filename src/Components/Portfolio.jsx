@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with macbook and books";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "HotelHub",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "HotelHub, a full-stack web app, redefines hotel booking with a user-friendly interface, real-time availability updates, and secure payment gateways.",
+    url: "https://github.com/hrxdavidmac7/Hotelhub",
   },
   {
-    title: "Web Development for Beginners",
+    title: "GlobeGoods",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Your global marketplace for quality finds. Explore a world of diverse products and seamless shopping experiences.",
+    url: "https://github.com/hrxdavidmac7/Globegoods",
   },
   {
-    title: "My Resume Site",
+    title: "My Port-Folio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "An aesthetically pleasing and responsive portfolio showcasing my work. With a sleek UI, it offers a seamless experience, highlighting skills and projects effectively. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "RapidFlavors",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The swift and vibrant app, brings the speed of fast food and a colorful palette to your fingertips. Order with ease and savor a spectrum of delicious options!",
+    url: "https://github.com/hrxdavidmac7/basic",
   },
 ];
 
