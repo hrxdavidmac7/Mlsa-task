@@ -29,10 +29,10 @@ const siteProps = {
   email: "anubhavtiwari0007@gmail.com",
   gitHub: "hrxdavidmac7",
   instagram: "",
-  linkedIn: "Anubhav.",
+  linkedIn: "anubhav-3740031b9/",
   medium: "",
   twitter: "",
-  youTube: "hrxdavidmac",
+  youTube: "UCRgqzKU2mgrDjj7GoGs3DdA",
 };
 
 const primaryColor = "#4E567E";
