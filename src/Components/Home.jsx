@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/City.jpg";
+import image from "../images/tree.jpg";
 
 const imageAltText = "Anubhav Software Developer and Web Developer. This is Background photo of UFO in a City.";
 
